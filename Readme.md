@@ -1,4 +1,4 @@
-# useHeadlessSelect - React Interview Ready
+# useHeadlessSelect
 
 A production-ready, TypeScript-first React hook for building fully accessible, customizable select components without any UI library dependencies.
 
